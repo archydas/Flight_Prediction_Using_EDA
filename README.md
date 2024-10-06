@@ -15,7 +15,7 @@ f. Duration: Total flight duration.
 g. Total Stops: Number of stops in the flight journey.
 h. Price: The ticket price (target variable for prediction).
 ## Workflow
-1. Data Cleaning and  Preprocessing
+## 1. Data Cleaning and  Preprocessing
    a. Handling Missing Data: Missing values were filled or removed as appropriate.
    b. Date/Time Features: Date-related features like "Date of Journey", "Departure Time", and 
       "Arrival Time" were transformed into useful formats such as day, month, hour, and minute.
@@ -23,7 +23,7 @@ h. Price: The ticket price (target variable for prediction).
       Destination were encoded using one-hot encoding to convert them into numerical formats.
    d. Feature Engineering: Additional features like total travel time and whether a flight 
       departs during peak hours were created to capture the complexities of flight pricing.
-2. Exploratory Data Analysis(EDA)
+## 2. Exploratory Data Analysis(EDA)
    EDA was performed to understand the relationship between flight prices and the various 
    features. Key insights include:
      a. Airlines: Certain airlines have consistently higher or lower ticket prices.
