@@ -6,7 +6,7 @@ This project aims to predict flight ticket prices based on various factors such 
 The primary goal of this project is to develop a predictive model that can estimate flight prices based on key features. This can help users identify the best times to book flights and understand how factors like the date of booking and travel duration influence the price.
 ## Dataset
 The dataset used for this project contains information about flights, including:
-a. Airline: The airline providing the service.
+a. Airline: The airline providing the service.//
 b. Date of Journey: The departure date of the flight.
 c. Source and Destination: Cities where the flight departs from and arrives.
 d. Route: The flight route with possible layovers.
